@@ -6,7 +6,9 @@
 >
 > - Técnico em desenvolvimento de sistemas
 >
+> - Tenho 20 anos
 >
+> - Apaixonado por tecnologia
 
 ## 🌐 Redes sociais 
 
