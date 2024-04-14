@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78BAF&random=false&width=435&lines=Olá!+Meu+nome+é+Guilherme+Santana+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;Eu+sou+Desenvolvedor+BackEnd+%F0%9F%93%B1;Bem+vindo!+%F0%9F%A9%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78BAF&random=false&width=435&lines=Olá!+Meu+nome+é+Guilherme+Santana+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;Eu+sou+Desenvolvedor+BackEnd+%F0%9F%93%B1;Bem+vindo!)](https://git.io/typing-svg)
 
 ## 🖐️ Sobre min 
 
