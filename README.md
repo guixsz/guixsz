@@ -31,7 +31,8 @@
 </p>
 
 <br>
-<p>
+<p display="flex"
+   gap= "12px">
   <img 
     align="left" 
     alt="GitHub Stats" 
